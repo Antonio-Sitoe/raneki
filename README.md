@@ -1,2 +1,2 @@
-# raneki
- Ecomerce com NextJS
+# React
+Repositorio de estudos de React, NextJS, e typescript

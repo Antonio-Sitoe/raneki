@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "node_modules": true,
+    ".gitignore": true,
+    "README.md": true,
+    ".vscode": true,
+    "public": true,
+    "README.MD": true,
+    "tsconfig.node.json": true,
+    "vite.config.ts": true,
+    "package.json": true,
+    "index.html": true,
+    "next.config.js": true,
+    "next-env.d.ts": true,
+
+    ".next": true,
+    ".eslintrc.json": true,
+    "yarn.lock": true,
+    "tsconfig.json": true
+  }
+}
