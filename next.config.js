@@ -6,7 +6,7 @@ const nextConfig = {
     styledComponents: true,
   },
     images: {
-    domains: ['media.graphassets.com'],
+    domains: ['ranekapi.origamid.dev'],
   },
 }
 
